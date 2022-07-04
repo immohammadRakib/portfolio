@@ -17,6 +17,7 @@ h1{
 section{
     display: flex;
     width:;
+    margin-bottom: 100px;
 }
 .toltu{
     width: 50%;
@@ -35,10 +36,16 @@ section{
     font-weight: bold;
     color: #efd4ef;
     padding: 10px 40px;
-    height: 20px;
+    height: px;
     border-radius: 5px;
 }
 .dila{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.dala{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
 }
