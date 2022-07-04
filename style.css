@@ -7,12 +7,13 @@ body{
     margin: 0;
 }
 span{
-    color: yellow;
+    color: rebeccapurple;
 }
+
 h1{
     font-size: 40px;
     font-style: normal;
-    padding-top: 40%;
+    padding-top: ;
 }
 .fexible{
     display: flex;
@@ -36,15 +37,26 @@ h1{
     padding: 10px 40px;
     
     border-radius: 5px;
+    margin-left: 20%;
+    margin-top: 10%;
 }
 .dila{
     background-image: url();
     background-repeat: no-repeat;
+    
+}
+.dila h1{
+    padding-top: 40%;
+}
+.dala h1{
+    padding-top: 40%;
+    padding-right: 20%;
 }
 .dala{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    padding-bottom: 0%;
     
 }
 .malta{
@@ -63,13 +75,10 @@ h1{
 }
 .dong{
     text-align: center;
-    padding-bottom: 5%;
-    font-size: 500px;
-    font-weight: 800px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #non{
     border-left: greenyellow solid 5px;
+
 }
 #son{
     border-left: 5px solid tomato;
